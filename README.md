@@ -1,6 +1,5 @@
 # Polymarket-Arbitrage-Trading-Bot-Python
-polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading bot python polymarket arbitrage trading 
-
+polymarket arbitrage trading bot python 
 Polymarket Trading Bot • 5-Min Market Bot • Fully Automated System
 
 A high-performance, automated trading system for Polymarket prediction markets — now fully upgraded for Polymarket V2.
