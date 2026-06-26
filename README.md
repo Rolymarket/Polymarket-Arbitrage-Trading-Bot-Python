@@ -88,7 +88,7 @@ And this is my polymarket Account
 
 [https://polymarket.com/@dava1414](https://polymarket.com/@dava1414)
 
-If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
+If you'd like, I can show you a profitable bot in action through a meeting .
 
 
 
