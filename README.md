@@ -2,7 +2,7 @@
 
 
 
-An open-source and Strong Strategy collection of Polymarket trading bot and arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
+An open-source and Strong Strategy collection of Polymarket trading bot and Polymarket arbitrage bot in Python for high-performance automated trading on polymarket crypto 5min markets.
 
 <img width="1537" height="1023" alt="Polymarket benjamincup bot dashboard" src="https://github.com/user-attachments/assets/bcf5015e-c001-4161-ba0e-21195bc1dba2" />
 
@@ -65,7 +65,7 @@ DEV Community:
 [https://dev.to/benjamin_cup](https://dev.to/benjamin_cup)
 
 Medium:
-[https://medium.com/@benjamin.bigdev](https://medium.com/@benjamin.bigdev)
+[https://benjamincup.medium.com](https://benjamincup.medium.com/)
 
 Substack:
 [https://substack.com/@benjamincup](https://substack.com/@benjamincup)
@@ -82,15 +82,17 @@ If you're interested in collaboration or have any questions or want buy profitab
 | **Telegram** | [@BenjaminCup](https://t.me/BenjaminCup) |
 | **X (Twitter)** | [@benjaminccup](https://x.com/benjaminccup) |
 
-And this is my polymarket Account 
 
-[https://polymarket.com/@maksim42](https://polymarket.com/@maksim42)
+If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
 
-[https://polymarket.com/@dava1414](https://polymarket.com/@dava1414)
+This is my Public Account.
 
-If you'd like, I can show you a profitable bot in action through a meeting .
+<img width="1008" height="238" alt="image" src="https://github.com/user-attachments/assets/61a7c1f2-26bf-458a-b180-b8649dde33a6" />
 
 
+[https://polymarket.com/@deltavibes](https://polymarket.com/@deltavibes)
+
+You can check the bot's pnl with this account.
 
 ## 1. Polymarket Endcycle Sniper bot (Introduction)
 
@@ -350,6 +352,8 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
 - 🧠 **Polymarket trading bot strategy & system design (Medium)**  
   Deep dive into arbitrage logic, market selection, and bot architecture.
 
+    - [Beyond Prediction: Designing a Market-Neutral Trading System for Polymarket in 2026](https://medium.com/@benjamincup/beyond-prediction-designing-a-market-neutral-trading-system-for-polymarket-in-2026-3f50bd2dd290)
+
     - [How I Built a Profitable Polymarket Trading bot in Python: Strategy, Risk Management, and Real-World Lessons](https://medium.com/@benjamin.bigdev/how-i-built-a-profitable-polymarket-trading-bot-in-python-strategy-risk-management-and-2499711a2f23)
 
     - [What 4 Weeks of Running a Polymarket Momentum Bot Taught Me About Prediction Markets](https://medium.com/@benjamin.bigdev/polymarektwhat-4-weeks-of-running-a-polymarket-momentum-bot-taught-me-about-prediction-markets-0f350bb3fc00?postPublishedType=repub)
@@ -392,6 +396,10 @@ This project is part of a larger ecosystem explaining how a **Polymarket trading
   
 - ⚙️ **How to build a Polymarket trading bot (Dev.to)**  
   Full developer guide covering setup, API integration, and execution flow.
+
+    - [How Quant Traders Extracted Nearly $40M in Risk-Free Arbitrage from Polymarket](https://dev.to/benjamin_cup/how-quant-traders-extracted-nearly-40m-in-risk-free-arbitrage-from-polymarket-33o8)
+
+    - [Polymarket Trading Bot: Building an Inventory-Balanced Ladder Strategy with Python in 2026](https://dev.to/benjamin_cup/polymarket-trading-bot-building-an-inventory-balanced-ladder-strategy-with-python-in-2026-53fh)
 
     - [Polymarket Trading bot: Building a Professional Prediction Market Trading System in Python](https://dev.to/benjamin_cup/polymarket-trading-bot-building-a-professional-prediction-market-trading-system-in-python-4fjd)
 
